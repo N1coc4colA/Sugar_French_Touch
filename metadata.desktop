@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Sugar: French Touch
+Description=The French Edition of Sugar (Sugar-Dark and Sugar-Light)
+Author=Marian Alexander Arlt
+Copyright=Copyright (C) 2018 Marian Arlt
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/MarianArlt/sddm-sugar-dark
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=marianarlt@icloud.com
+Email=n1coc4cola@gmail.com
+Theme-Id=SFT
+Theme-API=2.11
